@@ -1,0 +1,15 @@
+Mini Project: Voting System in Python
+📌 Objective
+To develop a simple console-based Voting System using Python programming.
+📋 Project Requirements (Mandatory)
+1. Create at least 3 candidates.
+2. Allow users to cast their vote.
+3. Count the votes properly.
+4. Display the final result.
+5. Create a menu-driven program.
+6. Include an exit option.
+
+tkinter all functions
+
+
+
